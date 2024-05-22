@@ -51,11 +51,6 @@ Analyze daily transactions to:
 - Determine the maximum number of consecutive days a customer made purchases.
 - Calculate the average number of days/transactions it takes for a customer to reach a spending threshold of 250 L.E.
 
-## **Deliverables**
-
-1. **SQL Queries File**: Contains all the SQL queries used for the analysis (.txt, .sql).
-2. **Project Report**: A well-formatted document summarizing the analysis, insights, and customer segmentation (.doc).
-
 
 ## **How to Use**
 
