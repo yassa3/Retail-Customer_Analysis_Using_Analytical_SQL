@@ -58,7 +58,7 @@ Analyze daily transactions to:
     
     ```bash
     bashCopy code
-    git clone https://github.com/yourusername/Customer-Behavior-Analysis.git
+    git clone https://github.com/yassa3/Retail_Customer_Analysis_Using_Analytical_SQL.git
     cd Customer-Behavior-Analysis
     
     ```
